@@ -14,5 +14,6 @@
     "cac": "^6.7.11"
   },
   "type": "module",
-  "bin": "lib/cli.js"
+  "bin": "lib/cli.js",
+  "files": ["lib"]
 }
