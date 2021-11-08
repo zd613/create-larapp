@@ -15,5 +15,9 @@
   },
   "type": "module",
   "bin": "lib/cli.js",
-  "files": ["lib"]
+  "files": ["lib"],
+  "bugs": {
+    "url": "https://github.com/zd613/create-larapp/issues"
+  },
+  "readme": "https://github.com/zd613/create-larapp#readme"
 }
