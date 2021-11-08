@@ -1,11 +1,16 @@
 # create-larapp
+
+Laravelのプロジェクトを作成するコマンド。  
+
+
+```
+npx create-larapp --name my-laravel-app
+```
  
 ## 必要
 
+- windows
 - wsl2
-- docker
-
-
-dockerが起動した状態が必要
+- docker(起動した状態)
 
 
