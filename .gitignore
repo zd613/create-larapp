@@ -77,4 +77,4 @@ typings/
 
 
 example-app/
-download.sh
+lib/download.sh
